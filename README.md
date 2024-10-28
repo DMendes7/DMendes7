@@ -1,5 +1,4 @@
-## Hi there 👋
-![pixel_room](https://github.com/user-attachments/assets/7b375afb-58b1-405b-878c-4383f3fcd82b)
+![Hello Word](https://github.com/user-attachments/assets/2d61bf38-b8fa-48b3-af37-4238172fc9c0)
 
 <!--
 **DMendes7/DMendes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
