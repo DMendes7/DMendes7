@@ -3,7 +3,7 @@
 
 -> PUC Minas | Eng. Sofware 👾
 
--> Frnago de Academia 💪
+-> Frango de Academia 💪
 
 -> Amante do Mundo autmotivo 🚗
 
