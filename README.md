@@ -2,6 +2,7 @@
 -> PUC Minas | Eng. Sofware 👾
 
 -> Lider de TI em Celer Biotecnologia SA ![fiveicon_celer-removebg-preview](https://github.com/user-attachments/assets/8fbfe200-8005-4b58-acae-b3101fbce456)
+
 -> Frnago de Academia 💪
 
 -> Amante do Mundo autmotivo 🚗
