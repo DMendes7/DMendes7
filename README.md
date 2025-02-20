@@ -9,4 +9,4 @@
 
 -> 𝗗𝗼𝗻𝗼 𝗱𝗲 𝘂𝗺 𝗽𝗼𝘁𝗲 𝗱𝗲 𝘀𝗼𝗿𝘃𝗲𝘁𝗲 𝗰𝗼𝗺 𝗿𝗼𝗱𝗮𝘀 | @uptsi.bh | ⚠️
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DMendes7&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DMendes7&show_icons=true&theme=transparent)
