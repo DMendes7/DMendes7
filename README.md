@@ -49,9 +49,9 @@
 
 ### 🧠 Atualmente aprendendo
 
-- Back-end com Java  
-- Front-end com React  
-- APIs REST e integração com sistemas  
+- Back-end com Python  
+- Front-end com HTML | CSS  
+- APIs REST e integração com sistemas via Python 
 - Power Platform (Automate, BI, SharePoint)  
 
 ---
