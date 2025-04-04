@@ -1,24 +1,12 @@
 
-<!-- ASCII art -->
-```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⠿⠛⠉⠙⠛⠻⠿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⢀⣤⣤⣤⣤⣤⣀⠀⢠⣾⣿⣿⡿⠋⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⣷⡀⠀⢀⣠⣤⣤⣤⡀
-⠀⢸⣿⠿⠿⠿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣷⣾⣿⠿⠿⠿⠿⡇
-⠀⢸⣿⣤⣄⣀⣠⣿⣿⣿⣿⠀⠀⣀⣀⣠⣤⣤⣀⣀⠀⠀⠀⣿⣿⣿⣿⣿⣧⣀⣀⣤⣤⡇
-⠀⠘⣿⣀⣀⣀⣿⣿⣿⣿⡇⠀⠀⠉⠉⠙⣿⡏⠉⠉⠀⠀⠀⢿⣿⣿⣿⣿⣧⣀⣀⣀⣼⠃
-⠀⠀⠈⠉⠉⠁⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠈⠉⠉⠁⠀⠀⠈⠉⠉⠁
-```
-
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b27d883e-6766-4d80-9909-8b4fb789725d" alt="Hello World Banner" width="100%"/>
+</p>
 
 <h2 align="center">👋 Olá! Eu sou o Davi Mendes</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=500&lines=L%C3%ADder+de+TI+na+Celer+Biotecnologia;Estudante+de+Engenharia+de+Software+na+PUC+Minas;Apaixonado+por+carros,+treinos+e+tecnologia!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=600&lines=Líder+de+TI+na+Celer+Biotecnologia;Estudante+de+Engenharia+de+Software+na+PUC+Minas;Apaixonado+por+carros,+treinos+e+tecnologia!" alt="Typing SVG" />
 </p>
 
 ---
@@ -86,6 +74,9 @@
 
 ### 🐍 Snake de contribuições
 
-![snake gif](https://github.com/DMendes7/DMendes7/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake animation GitHub Actions must be configured no repositório -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DMendes7/DMendes7/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ---
