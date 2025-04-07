@@ -74,8 +74,10 @@
 
 ### 🐍 Snake de contribuições
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DMendes7/DMendes7/output/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://dmendes7.github.io/DMendes7/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://dmendes7.github.io/DMendes7/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://dmendes7.github.io/DMendes7/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
