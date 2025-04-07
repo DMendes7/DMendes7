@@ -74,9 +74,8 @@
 
 ### 🐍 Snake de contribuições
 
-<!-- Snake animation GitHub Actions must be configured no repositório -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DMendes7/DMendes7/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/DMendes7/DMendes7/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
