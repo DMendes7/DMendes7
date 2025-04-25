@@ -72,11 +72,6 @@
 
 ---
 
-### 🏅 Badge conquistada
-
-[![Badge - Building applications with GitHub Copilot agent mode](https://raw.githubusercontent.com/DMendes7/skills-build-applications-w-copilot-agent-mode/main/.github/assets/copilot-agent-mode-badge.png)](https://learn.microsoft.com/en-us/training/modules/build-applications-github-copilot-agent-mode/)
-
----
 
 ### 🐍 Snake de contribuições
 
