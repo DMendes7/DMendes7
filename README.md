@@ -72,6 +72,12 @@
 
 ---
 
+### 🏆 Conquistas e Certificações
+
+<img src="https://img.shields.io/badge/Completed-VS%20Code%20Live%20Challenge-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Live Challenge Badge" />
+
+---
+
 ### 🐍 Snake de contribuições
 
 <picture>
