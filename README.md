@@ -72,9 +72,9 @@
 
 ---
 
-### 🏆 Conquistas e Certificações
+### 🏅 Badge conquistada
 
-<img src="https://img.shields.io/badge/Completed-VS%20Code%20Live%20Challenge-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Live Challenge Badge" />
+[![Badge - Building applications with GitHub Copilot agent mode](https://raw.githubusercontent.com/DMendes7/skills-build-applications-w-copilot-agent-mode/main/.github/assets/copilot-agent-mode-badge.png)](https://learn.microsoft.com/en-us/training/modules/build-applications-github-copilot-agent-mode/)
 
 ---
 
