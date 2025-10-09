@@ -27,10 +27,6 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
-  Minhas principais ferramentas e linguagens de trabalho.
-</p>
-
 <div align="center">
   
   ### 🌐 Linguagens & Frameworks
