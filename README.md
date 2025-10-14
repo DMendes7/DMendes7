@@ -2,7 +2,10 @@
   <img src="https://github.com/user-attachments/assets/b27d883e-6766-4d80-9909-8b4fb789725d" alt="Hello World Banner" width="100%"/>
 </p>
 
-<h1 align="center">👋 Olá! Eu sou o Davi Mendes</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="margin-right: 10px;">
+  Olá! Eu sou o Davi Mendes
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software+na+PUC+Minas;Apaixonado+por+código,+desafios+e+inovação!" alt="Typing SVG" />
