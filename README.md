@@ -98,16 +98,14 @@ Essa seção mostra meu foco de estudo e desenvolvimento no momento:
 
 ## ✉️ Conecte-se Comigo
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/dmendes7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-dmendes7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/DMendes7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-DMendes7-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/davi_prm/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-davi_prm-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/dmendes7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/davi_prm" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
 ---
