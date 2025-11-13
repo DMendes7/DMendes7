@@ -62,7 +62,7 @@ Essa seção mostra meu foco de estudo e desenvolvimento no momento:
 
 ---
 
-## 📊 Status e Atividade no GitHub (Ajustado para Estabilidade e Tema Escuro)
+## 📊 Status e Atividade no GitHub
 
 <div align="center">
     <a href="https://github.com/DMendes7">
