@@ -8,8 +8,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software+na+PUC+Minas;Apaixonado+por+código,+desafios+e+inovação!" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Intern+%40+ArcelorMittal;Engenharia+de+Software+%E2%80%94+PUC+Minas;Apaixonado+por+c%C3%B3digo%2C+inova%C3%A7%C3%A3o+e+tecnologia!" />
+</p
 
 ---
 
